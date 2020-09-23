@@ -1,0 +1,12 @@
+frmMain = 110, 110, 627, 632, C, 22, 22, 539, 544, C
+BasicLanguage = 44, 44, 561, 566, C
+modSemProcess = 44, 44, 561, 566, C
+modLexProcs = 88, 88, 825, 500, C
+modConversion = 22, 22, 752, 434, C
+modConstants = 66, 66, 583, 588, C
+ODLanguage = 22, 22, 539, 544, C
+SCLanguage = 110, 110, 620, 632, C
+SCLanguages = 88, 88, 598, 610, C
+SCLangEngine = 154, 154, 664, 676, C
+modLangTypes = 132, 132, 642, 654, C
+modRTF = 0, 0, 439, 445, C
